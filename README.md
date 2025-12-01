@@ -12,8 +12,6 @@ This project allows users to create, manage, and organize tasks efficiently with
 - ✅ Mark tasks as completed
 - 🗑️ Delete tasks individually
 - ✏️ Edit existing tasks
-- 📂 Categorize tasks (e.g., Work, Personal, Urgent)
-- 💾 LocalStorage support – tasks persist even after refreshing the page
 - 📱 Fully responsive design (works on mobile, tablet, and desktop)
 
 ---
