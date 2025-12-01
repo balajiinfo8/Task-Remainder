@@ -1,4 +1,4 @@
-. https://balajiinfo8.github.io/Task-Remainder/
+https://balajiinfo8.github.io/Task-Remainder/
 
 # 📝 Task Manager (HTML, CSS, JavaScript)
 
